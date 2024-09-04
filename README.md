@@ -4,12 +4,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f.e.l.i.x.z)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@felix.page)](mailto:mail@felix.page)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-zorn/)](https://www.linkedin.com/in/felix-zorn/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_am_shexpyr)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Felevhate)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@elevhate)
 
 
 ![](https://komarev.com/ghpvc/?username=elevhate)
 [![wakatime](https://wakatime.com/badge/user/ad70fdc4-0867-45be-8b1f-e921acf3fdcb.svg)](https://wakatime.com/@ad70fdc4-0867-45be-8b1f-e921acf3fdcb)
+
+<div align="center" style="width:652px;">
+    <picture style="width:652px;">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elevhate/elevhate/snk/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elevhate/elevhate/snk/github-contribution-grid-snake.svg">
+        <img src="https://raw.githubusercontent.com/elevhate/elevhate/snk/github-contribution-grid-snake.svg" width="652px" alt="Snake">
+    </picture>
+    <hr width="652px" />
+</div>
 
 # 💻 Tech Stack:
 <div >
