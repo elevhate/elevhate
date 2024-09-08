@@ -36,11 +36,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
-## 🏆 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elevhate&custom_title=Used%20Languages)](https://github.com/elevhate/github-readme-stats)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=elevhate&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center" style="width:652px;">
+    <hr width="652px" />
+    <img src="https://raw.githubusercontent.com/elevhate/elevhate/metrics/github-metrics.svg" width="652px" alt="Metrics" />
+</div>
