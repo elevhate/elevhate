@@ -71,4 +71,4 @@ jobs:
           commit_message: "👾 update sneek"
           target_branch: snk
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
