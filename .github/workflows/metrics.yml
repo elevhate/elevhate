@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: elevhate
+          user: easghost
           template: classic
           base: header, activity, community, metadata
           config_timezone: Europe/Berlin
@@ -62,7 +62,7 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved, skills
-          plugin_leetcode_user: elevhate
+          plugin_leetcode_user: easghost
 
           # Steam
           plugin_steam: no
